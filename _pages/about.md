@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 Writing things down is how I internalise it. Lessons learned and reflections.
-[comment] : <> (
-## Features
+
+ <!---
+ ## Features
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme
@@ -25,4 +26,4 @@ Writing things down is how I internalise it. Lessons learned and reflections.
 - In-built sitemap
 
 Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
-)
+--->
