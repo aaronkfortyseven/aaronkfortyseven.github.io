@@ -17,6 +17,7 @@ categories: [SOC analyst, Blue Team]
 - Malware Analysis
 - DFIR Operations
 
+
 **The Exam**
 
 The candidate will have to perform security analysis, SOC operations, and incident handling activities against multiple real-world and heterogeneous networks hosted in HTB’s infrastructure and accessible via VPN (using Pwnbox or their own local VM). 
