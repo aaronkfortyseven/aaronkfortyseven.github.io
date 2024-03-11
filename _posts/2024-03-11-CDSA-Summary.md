@@ -18,6 +18,7 @@ categories: [SOC analyst, Blue Team]
 - DFIR Operations
 
 **The Exam**
+
 The candidate will have to perform security analysis, SOC operations, and incident handling activities against multiple real-world and heterogeneous networks hosted in HTB’s infrastructure and accessible via VPN (using Pwnbox or their own local VM). 
 
 Upon starting the examination process, a letter of engagement will be provided that will clearly state all engagement details, requirements, objectives, and scope.
